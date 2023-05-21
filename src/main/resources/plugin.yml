@@ -1,0 +1,7 @@
+name: CustomJumpPads
+version: '${project.version}'
+main: ru.permasha.customjumppads.CustomJumpPads
+api-version: 1.16
+commands:
+  jumppad:
+    description: Add jumppad locations
